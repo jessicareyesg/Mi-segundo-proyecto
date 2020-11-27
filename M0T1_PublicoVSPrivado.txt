@@ -1,0 +1,3 @@
+Al archivo público se puede accesar cuando se obtiene el link y se pega en el navegador.
+Al archivo privado no.
+En la lista de nuestros repositorios, al lado de nombre, cuando el archivo es privado aparece la leyenda de "private".
